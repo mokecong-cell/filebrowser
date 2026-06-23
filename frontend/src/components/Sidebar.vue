@@ -97,14 +97,7 @@
 
     <p class="credits">
       <span>
-        <span v-if="disableExternal">File Browser</span>
-        <a
-          v-else
-          rel="noopener noreferrer"
-          target="_blank"
-          href="https://github.com/filebrowser/filebrowser"
-          >File Browser</a
-        >
+        <span>北京谷月远程数据文件管理平台</span>
         <span> {{ " " }} {{ version }}</span>
       </span>
       <span>

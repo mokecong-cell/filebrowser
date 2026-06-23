@@ -1,4 +1,4 @@
-const name: string = window.FileBrowser.Name || "File Browser";
+const name: string = window.FileBrowser.Name || "北京谷月远程数据文件管理平台";
 const disableExternal: boolean = window.FileBrowser.DisableExternal;
 const disableUsedPercentage: boolean = window.FileBrowser.DisableUsedPercentage;
 const baseURL: string = window.FileBrowser.BaseURL;
